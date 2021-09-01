@@ -35,31 +35,31 @@
 ### Mobile Screenshots
 
 <p align="center">
-  <img src="mobile/screenshots/1.png" />
+  <img src="mobile/screenshots/1.png" width="375" />
 </p>
 <p align="center">
-  <img src="mobile/screenshots/2.png" />
+  <img src="mobile/screenshots/2.png" width="375" />
 </p>
 <p align="center">
-  <img src="mobile/screenshots/3.png" />
+  <img src="mobile/screenshots/3.png" width="375" />
 </p>
 <p align="center">
-  <img src="mobile/screenshots/4.png" />
+  <img src="mobile/screenshots/4.png" width="375" />
 </p>
 <p align="center">
-  <img src="mobile/screenshots/5.png" />
+  <img src="mobile/screenshots/5.png" width="375" />
 </p>
 <p align="center">
-  <img src="mobile/screenshots/6.png" />
+  <img src="mobile/screenshots/6.png" width="375" />
 </p>
 <p align="center">
-  <img src="mobile/screenshots/7.png" />
+  <img src="mobile/screenshots/7.png" width="375" />
 </p>
 <p align="center">
-  <img src="mobile/screenshots/8.png" />
+  <img src="mobile/screenshots/8.png" width="375" />
 </p>
 <p align="center">
-  <img src="mobile/screenshots/9.png" />
+  <img src="mobile/screenshots/9.png" width="375" />
 </p>
 
 ---
